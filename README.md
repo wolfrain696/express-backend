@@ -1,13 +1,13 @@
-#Backend Rest API
+# Backend Rest API
 
-##Команды для запуска :
+## Команды для запуска :
 * npm install
 * npm run dev
-
-##Stack:
+ 
+## Stack:
 + Node js
 + Express
 + Mongoose
 
-##Mission :
+## Mission :
 Понять принципы архитектуры Rest API, и работы сервера.
